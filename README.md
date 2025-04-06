@@ -8,7 +8,7 @@
 - <b>Data Structures & Algorithms (Python)</b>
   - [Practicing with Real Problems](https://github.com/Melissa07001/Algorithms-Practice)
 - <b>Full Stack Web App</b> (React, NodeJS, Azure, and a bit of AI)
-  - [Image Analysis Tool](https://github.com/yourgithub/Image-Analysis-App)
+  - [Image Analysis Tool](https://github.com/Melissa07001/Image-Analysis-App)
 - <b>PowerShell Scripting</b>
   - [Find GeoData from Failed RDP Logins](https://github.com/yourgithub/RDP-GeoIP)
   - [Disk Wiper Tool (JWipe)](https://github.com/yourgithub/Jwipe)
