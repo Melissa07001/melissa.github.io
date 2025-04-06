@@ -10,7 +10,7 @@
 - <b>Full Stack Web App</b> (React, NodeJS, Azure, and a bit of AI)
   - [Image Analysis Tool](https://github.com/Melissa07001/Image-Analysis-App)
 - <b>PowerShell Scripting</b>
-  - [Find GeoData from Failed RDP Logins](https://github.com/yourgithub/RDP-GeoIP)
+  - [Find GeoData from Failed RDP Logins](https://github.com/Melissa07001/RDP-GeoIP)
   - [Disk Wiper Tool (JWipe)](https://github.com/yourgithub/Jwipe)
   - [Bulk User Creation for AD](https://github.com/yourgithub/AD-BulkUsers)
   - [File Integrity Monitoring (FIM)](https://github.com/yourgithub/FileIntegrityMonitor)
