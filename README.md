@@ -6,7 +6,7 @@
 <h2>👩‍💻 Software Projects I'm Proud Of:</h2>
 
 - <b>Data Structures & Algorithms (Python)</b>
-  - [Practicing with Real Problems](https://github.com/yourgithub/Algorithms-Practice)
+  - [Practicing with Real Problems](https://github.com/Melissa07001/Algorithms-Practice)
 - <b>Full Stack Web App</b> (React, NodeJS, Azure, and a bit of AI)
   - [Image Analysis Tool](https://github.com/yourgithub/Image-Analysis-App)
 - <b>PowerShell Scripting</b>
