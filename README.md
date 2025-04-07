@@ -12,7 +12,7 @@
 - <b>PowerShell Scripting</b>
   - [Find GeoData from Failed RDP Logins](https://github.com/Melissa07001/RDP-GeoIP)
   - [Disk Wiper Tool (JWipe)](https://github.com/Melissa07001/Jwipe)
-  - [Bulk User Creation for AD](https://github.com/yourgithub/AD-BulkUsers)
+  - [Bulk User Creation for AD](https://github.com/Melissa07001/AD-BulkUsers)
   - [File Integrity Monitoring (FIM)](https://github.com/yourgithub/FileIntegrityMonitor)
 - <b>C# Projects</b>
   - [Ransomware POC - Encryptor](https://github.com/yourgithub/RansomwareEncryptor)
